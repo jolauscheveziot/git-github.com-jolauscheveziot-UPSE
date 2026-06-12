@@ -24,8 +24,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 230,
-        "y": 100,
+        "x": 510,
+        "y": 200,
         "wires": [
             [
                 "126ef9f38681d033"
