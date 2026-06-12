@@ -24,8 +24,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 150,
-        "y": 60,
+        "x": 230,
+        "y": 100,
         "wires": [
             [
                 "126ef9f38681d033"
@@ -45,8 +45,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 340,
-        "y": 60,
+        "x": 380,
+        "y": 100,
         "wires": []
     }
 ]
