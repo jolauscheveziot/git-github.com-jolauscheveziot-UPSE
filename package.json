@@ -1,0 +1,12 @@
+{
+    "name": "UPSE",
+    "description": "esto es una prueba ",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
