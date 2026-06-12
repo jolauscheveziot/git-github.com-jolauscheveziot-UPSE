@@ -1,9 +1,11 @@
-UPSE
-====
+# UPSE - Proyecto IoT
 
-esto es una prueba 
+Este repositorio se utiliza para realizar pruebas del proyecto IoT de la UPSE.
 
-### About
+Objetivos de la prueba:
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+* Verificar el funcionamiento de los comandos **git push**.
+* Verificar la sincronización mediante **git pull**.
+* Comprobar la correcta actualización del repositorio remoto.
+
+Prueba realizada exitosamente.
